@@ -1,6 +1,6 @@
 # PhishingProject
 
-We created a Phishing educational app, built on Java and PHP.
+This is the code for a Phishing educational app, built on Java and PHP.
 There are files added to explain the logic and use behind the app.
 
 Notice - This is the code only.
